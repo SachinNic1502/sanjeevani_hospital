@@ -1,7 +1,7 @@
 {
   "name": "sanjeevani_hospital",
   "version": "0.1.0",
-  "homepage": "https://github.com/SachinNic1502/sanjeevani_hospital",
+  "homepage": "https://SachinNic1502.github.io/sanjeevani_hospital",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
