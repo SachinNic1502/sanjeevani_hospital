@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/SachinNic1502/sanjeevani_hospital/static/css/main.2ac2c364.css",
+    "main.js": "/SachinNic1502/sanjeevani_hospital/static/js/main.c2490b10.js",
+    "static/js/453.7999dbb8.chunk.js": "/SachinNic1502/sanjeevani_hospital/static/js/453.7999dbb8.chunk.js",
+    "static/media/docter-hero.png": "/SachinNic1502/sanjeevani_hospital/static/media/docter-hero.8dd99aba3f459eb2a6f8.png",
+    "static/media/book-appointment-bg.png": "/SachinNic1502/sanjeevani_hospital/static/media/book-appointment-bg.4f11ba52ad0c3e2f0f06.png",
+    "static/media/babybanner.jpg": "/SachinNic1502/sanjeevani_hospital/static/media/babybanner.4120a7dbdcf20169f690.jpg",
+    "static/media/New_India_Assurance.png": "/SachinNic1502/sanjeevani_hospital/static/media/New_India_Assurance.9008df9008b155b48766.png",
+    "static/media/hero-bg.png": "/SachinNic1502/sanjeevani_hospital/static/media/hero-bg.dce84357ac8b8a427370.png",
+    "static/media/logo.png": "/SachinNic1502/sanjeevani_hospital/static/media/logo.cbc26c03ad2f9d688206.png",
+    "static/media/insuranceBanner.png": "/SachinNic1502/sanjeevani_hospital/static/media/insuranceBanner.6cdaac5e4b8afba6040e.png",
+    "static/media/doctor-1.png": "/SachinNic1502/sanjeevani_hospital/static/media/doctor-1.8e903f53460fb11f8a01.png",
+    "static/media/doctor-2.png": "/SachinNic1502/sanjeevani_hospital/static/media/doctor-2.7a7565766774f0a39897.png",
+    "static/media/doctor-3.png": "/SachinNic1502/sanjeevani_hospital/static/media/doctor-3.04b5519183800c6aeb4e.png",
+    "static/media/HDFC_ERGO.png": "/SachinNic1502/sanjeevani_hospital/static/media/HDFC_ERGO.f7cd142ddb139fe8e0cb.png",
+    "static/media/Oriental_Insurance.png": "/SachinNic1502/sanjeevani_hospital/static/media/Oriental_Insurance.4d4aef3b2e2ff68a6621.png",
+    "static/media/about.jpg": "/SachinNic1502/sanjeevani_hospital/static/media/about.f32b0986d6949a634766.jpg",
+    "static/media/Emergency_Services.png": "/SachinNic1502/sanjeevani_hospital/static/media/Emergency_Services.a44ea83474d150c167ae.png",
+    "static/media/Star_Health.png": "/SachinNic1502/sanjeevani_hospital/static/media/Star_Health.0a25914be5770ff79329.png",
+    "static/media/ICICI_Lombard.png": "/SachinNic1502/sanjeevani_hospital/static/media/ICICI_Lombard.d3ccf0ffb31dc53c6082.png",
+    "static/media/Pediatric.png": "/SachinNic1502/sanjeevani_hospital/static/media/Pediatric.710f529230f4e83d553d.png",
+    "static/media/SBI_General.jpeg": "/SachinNic1502/sanjeevani_hospital/static/media/SBI_General.8a068599ea2dd3f6be94.jpeg",
+    "static/media/reliance_insurance.png": "/SachinNic1502/sanjeevani_hospital/static/media/reliance_insurance.0fdd8b5c68ad43d472c0.png",
+    "static/media/NICU.png": "/SachinNic1502/sanjeevani_hospital/static/media/NICU.e5f184d2e979f8cd8644.png",
+    "static/media/PICU.jpg": "/SachinNic1502/sanjeevani_hospital/static/media/PICU.563983dadd0e7b4261c2.jpg",
+    "static/media/NivaBupa.jpg": "/SachinNic1502/sanjeevani_hospital/static/media/NivaBupa.b06e4d8b5f1102f94eb2.jpg",
+    "static/media/uiic.png": "/SachinNic1502/sanjeevani_hospital/static/media/uiic.0dacd7ef6cc0d23e5e1a.png",
+    "static/media/slick.svg": "/SachinNic1502/sanjeevani_hospital/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SachinNic1502/sanjeevani_hospital/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SachinNic1502/sanjeevani_hospital/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SachinNic1502/sanjeevani_hospital/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SachinNic1502/sanjeevani_hospital/index.html",
+    "main.2ac2c364.css.map": "/SachinNic1502/sanjeevani_hospital/static/css/main.2ac2c364.css.map",
+    "main.c2490b10.js.map": "/SachinNic1502/sanjeevani_hospital/static/js/main.c2490b10.js.map",
+    "453.7999dbb8.chunk.js.map": "/SachinNic1502/sanjeevani_hospital/static/js/453.7999dbb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ac2c364.css",
+    "static/js/main.c2490b10.js"
+  ]
+}
